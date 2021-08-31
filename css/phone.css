@@ -1,0 +1,25 @@
+/* Navigation section */
+#navbar{
+    flex-direction: column;
+    height: 200px;
+}
+
+/* Home Section */
+#home{
+    height: 486px;
+   
+}
+#home::before{
+    height: 50%;
+   
+}
+
+/* Services- Container section */
+#services{
+    flex-direction: column;
+}
+
+/* Contact Section */
+#clients{
+    overflow: hidden;
+}
