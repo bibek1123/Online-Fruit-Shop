@@ -103,6 +103,7 @@ display: flex;
 
 }
 #services .box{
+    background-color:white;
     border: 3px solid rgb(0, 231, 50);
     border-radius: 80px;
     padding: 23px;
